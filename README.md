@@ -1,5 +1,5 @@
 # Pila
-##Stack data structure
+## Stack data structure
 
 Example of a stack made in C++ with an employee strucute which concists of name, age and salary
 
@@ -10,7 +10,7 @@ typedef struct empleado {
     float sueldo;
 }Empleado;
 ```
-##Stack options:
+## Stack options:
 - push
 - pop
 - show
